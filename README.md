@@ -13,7 +13,7 @@ __Includes code to:__
 - Perform a 3D contour rendering of the average podosome ('PreprocessPodForMayavi.ipynb', 'rendering_figure.py')
 
 
-__Installation:___
+__Installation:__
 Note: This code was create dusing Python v 3.7.10 and Jupyter Notebook 6.1.4
 1. Requires Python (https://www.python.org/downloads/) and Jupyter Notebook (https://jupyter.org/install).
 2. Requires installation of the 'unusual' Python packages Dionysus2 (https://mrzv.org/software/dionysus2/, __required__), and statannot (https://pypi.org/project/statannot/, used for plotting statistical annotations). 
