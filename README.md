@@ -20,7 +20,10 @@ Note: This code was created using Python v 3.7.10 and Jupyter Notebook 6.1.4
 2. Requires installation of the 'unusual' Python packages Dionysus2 (https://mrzv.org/software/dionysus2/, v2.0.8, __required__), and statannot (https://pypi.org/project/statannot/, used for plotting statistical annotations). 
 3. Install time should be insignificant, especially if Python and Jupyter are pre-installed. 
 
-All analyses conducted on a Macintosh computer (2.3 GHz Quad-Core Intel Core i7) and should only require a maximum of a few minutes per step.
+__Additional Notes:__
+- All analyses conducted on a Macintosh computer (2.3 GHz Quad-Core Intel Core i7) and should only require a maximum of a few minutes per step. 
+- Results from the paper should be reproducible when running code on the data analyzed (available upon request to the corresponding author, Klaus Hahn, khahn@med.unc.edu)
+	- See __Includes code to__.
 
 
 
