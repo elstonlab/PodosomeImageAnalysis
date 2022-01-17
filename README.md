@@ -17,7 +17,7 @@ __Includes code to:__
 __Installation:__
 Note: This code was created using Python v 3.7.10 and Jupyter Notebook 6.1.4
 1. Requires Python (https://www.python.org/downloads/) and Jupyter Notebook (https://jupyter.org/install).
-2. Requires installation of the 'unusual' Python packages Dionysus2 (https://mrzv.org/software/dionysus2/, __required__), and statannot (https://pypi.org/project/statannot/, used for plotting statistical annotations). 
+2. Requires installation of the 'unusual' Python packages Dionysus2 (https://mrzv.org/software/dionysus2/, v2.0.8, __required__), and statannot (https://pypi.org/project/statannot/, used for plotting statistical annotations). 
 
 All analyses conducted on a Macintosh computer (3.4 GHz Intel Processor) and should only require a maximum of a few minutes per step.
 
